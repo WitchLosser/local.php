@@ -30,7 +30,7 @@
                             <img src='/uploads/$row[4]' width='50' alt=''>
                         </td>
                         <td>
-                            <a href='/edit.php?id=$row[0]' class='text-info' data-edit>
+                            <a href='/edit.php?id=$row[0]&name=' class='text-info'>
                                 <i class='bi bi-pencil'></i>
                             </a>
                         </td>
@@ -56,7 +56,7 @@
     <script>
         window.addEventListener("load", function() {
             const btns = document.querySelectorAll("[data-delete]");
-            let hrefDelete = ""; //Адреса по якій потрібно провести видалення
+            let hrefDelete = "";
             const deleteModal = new bootstrap.Modal(document.getElementById("deleteModal"));
             for (i=0; i<btns.length; i++) {
                 btns[i].onclick=function(e) {
