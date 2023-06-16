@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc4fe1c8-3b03-4ba0-a41a-3b160a961c2e" name="Changes" comment="">
+    <list default="true" id="bc4fe1c8-3b03-4ba0-a41a-3b160a961c2e" name="Changes" comment="changes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,14 +25,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
-        <option name="accountId" value="e33325db-cbba-4a04-bd85-3941d01e8465" />
+        <option name="accountId" value="982de5ba-933f-4dd7-90b7-b44bc8fca884" />
         <option name="url" value="git@github.com:WitchLosser/local.php.git" />
       </UrlAndAccount>
     </option>
@@ -55,6 +55,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -85,8 +86,18 @@
       <workItem from="1686684173119" duration="8461000" />
       <workItem from="1686755028310" duration="1810000" />
       <workItem from="1686775475167" duration="7385000" />
-      <workItem from="1686855022343" duration="7239000" />
+      <workItem from="1686855022343" duration="7602000" />
+      <workItem from="1686863052210" duration="1004000" />
+      <workItem from="1686928054006" duration="308000" />
     </task>
+    <task id="LOCAL-00001" summary="changes">
+      <created>1686862776356</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686862776356</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,5 +113,13 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
